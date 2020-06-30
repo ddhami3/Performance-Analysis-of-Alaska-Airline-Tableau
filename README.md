@@ -1,4 +1,4 @@
-## Visualise and Analyse frequency of delay/cancelled flight the Alaskan Airline (AS) for the year 2018.
+## Visualize Alaskan Airline's (AS) frequency of departure/cancelled flights for the year 2018 and provide suggestions to improve its performance.
 
 Kindly check the below link for the entire project:
 ## https://public.tableau.com/profile/dhruv.dhami#!/vizhome/PerformanceAnalysis-AlaskaAirlines/AlaskaAirlinesAnalysis
