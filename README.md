@@ -30,3 +30,7 @@ Contents:
   3) The month of August had maximum delays and overall 4th quarter had more delayed/cancelled flights, most probably due to harsh winters.
     
 Dataset : Bureau of Transportation Statistics (https://www.bts.gov/topics/airlines-and-airports-0)
+
+Sample Sheets:
+![](AS Images/Sample2.png)
+![](AS Images/Sample3.png)
