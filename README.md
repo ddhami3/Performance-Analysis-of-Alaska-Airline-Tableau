@@ -32,5 +32,5 @@ Contents:
 Dataset : Bureau of Transportation Statistics (https://www.bts.gov/topics/airlines-and-airports-0)
 
 Sample Sheets:
-![](AS Images/Sample2.png)
-![](AS Images/Sample3.png)
+![](ASImages/Sample2.png)
+![](ASImages/Sample3.png)
