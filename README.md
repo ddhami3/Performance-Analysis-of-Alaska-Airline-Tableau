@@ -25,7 +25,7 @@ Contents:
     * Cancellation comparison  : DL has lesser cancelled flights than AS
     
 ## Final Conclusion
-  1) Based on the On-time performance analysis, AS should take actions and control NAS delays as it was reponsible for 42% of the delays. Although compared to industry standards        of 19% delay in flights, AS had 13% delayed flights.
+  1) Based on the On-time performance analysis, AS should take actions and control NAS delays as it was reponsible for 51% of the delays. Although compared to industry standards        of 19% delay in flights, AS had 13% delayed flights.
   2) Departure delays from ADK(Adak Airport) and EWR(Newark Liberty International Airport) airports could be reduced as they had the highest average delay minutes. However, due        to extreme weather conditions in Alaska, their might not be a great scope of improvement in the average departure time.
   3) The month of August had maximum delays and overall 4th quarter had more delayed/cancelled flights, most probably due to harsh winters.
     
