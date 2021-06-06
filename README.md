@@ -17,7 +17,7 @@ Contents:
 3. Comparison with the Industry
     * Service time comparison
     * Delay comparison        :Performs better compared to other airlines
-    * Cancellation comparison :Performs better compared to other airlines maybe be beauce of overall less flights.
+    * Cancellation comparison :Performs better compared to other airlines maybe be becauce of overall less flights.
     
 4. Compititor: 
     * Indentify compititor based on route ## Delta Airlines (DL)
